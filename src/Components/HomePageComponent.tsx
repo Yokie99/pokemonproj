@@ -3,7 +3,7 @@ import React from 'react'
 const HomePageComponent = () => {
   return (
     <div className="bg-main bg-no-repeat bg-cover bg-center bg-fixed">
-    <h1 className="my-12 text-center text-6xl lg:text-8xl text-white textShadow">PokéDex</h1>
+    <h1 className="my-12 text-center text-6xl lg:text-8xl text-white textShadow">PokéDex1</h1>
 
     <div className="flex justify-center w-full text-xl">
       <input id="pkmnInput" className="w-4/12 border-black border-4 text-center hidden lg:block" type="text" placeholder="Pokemon name/number" />
